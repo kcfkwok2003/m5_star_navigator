@@ -2,7 +2,6 @@ ap_ble.py
 ap_bmp.py
 ap_freq_test.py
 ap_hello.py
-ap_httpd.py
 ap_httpd_constel.py
 ap_httpd_horo.py
 ap_httpd_planet.py
